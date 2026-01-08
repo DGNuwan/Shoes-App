@@ -1,20 +1,40 @@
-<<<<<<< HEAD
-# shoes_app
+# 👟 Shoes App – Flutter E-Commerce Application
 
-A new Flutter project.
+A modern **Shoes Selling Mobile Application** built using **Flutter**.  
+This app provides a clean and user-friendly interface for browsing and purchasing premium sneakers.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Overview
 
-A few resources to get you started if this is your first Flutter project:
+The Shoes App allows users to:
+- View branded sneakers
+- Explore stylish shoe collections
+- Navigate smoothly between pages
+- Enjoy a clean and minimal UI design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app starts with an **intro screen** featuring a brand logo and a “Shop Now” button that navigates to the home page.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Shoes-App
->>>>>>> bda2525d65af5a37218c628e652d2acc17c1619f
+---
+
+## ✨ Features
+
+- 🚀 Intro / Landing Page
+- 👟 Shoe product listings
+- 🧭 Smooth page navigation
+- 🎨 Modern UI with Material Design
+- 📱 Responsive layout for mobile devices
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **Material UI**
+- **VS Code / Android Studio**
+
+---
+
+## 📂 Project Structure
+
