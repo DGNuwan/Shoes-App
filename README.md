@@ -32,9 +32,6 @@ The app starts with an **intro screen** featuring a brand logo and a “Shop Now
 - **Flutter**
 - **Dart**
 - **Material UI**
-- **VS Code / Android Studio**
+- **VS Code**
 
 ---
-
-## 📂 Project Structure
-
